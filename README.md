@@ -54,6 +54,6 @@ The API is as follows:
     ```
 The service uses Nancy(http://nancyfx.org) for the web layer, and NModbus4 (https://github.com/NModbus4/NModbus4) for the Modbus layer.
 
-The code in theory should support Holding registers, Input registers, Coils, and Inputs. It should also support Modbus TCP, Serial RTU and ASCII RTU. However, I don't have enough devices to test all these modes.
+The code in theory should support Holding registers, Input registers, Coils, and Inputs. It should also support Modbus TCP, Serial RTU and serial ASCII. However, I don't have enough devices to test all these modes.
 
 The service and the code are provided as is. You are free to use and refactor the code but do so at your own risk.
