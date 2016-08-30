@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusRestAPI", "ModbusRestAPI.csproj", "{1EAEE3F8-3419-453C-8894-F47FB51D764D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusHandler", "..\ModbusHandler\ModbusHandler.csproj", "{2E971CA1-FD26-4ABD-8038-171AF258341F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusHandler", "ModbusHandler\ModbusHandler.csproj", "{2E971CA1-FD26-4ABD-8038-171AF258341F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
