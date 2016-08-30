@@ -1,6 +1,6 @@
 # ModbusRestAPI
 
-A service that exposes the Modbus protocol via a RESTful API. The service was built using C# and Mono so it should work in all platforms.
+A service that exposes the Modbus protocol via a RESTful API. The service was built using C# and Mono so it should work in all platforms. If curious what Modbus is, please check (http://www.minaandrawos.com/2014/11/26/how-to-write-a-modbus-driver/#WhatIsModbus ). Happy hacking!!
 
 The API is as follows:
   - /Read/{deviceType}:
