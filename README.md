@@ -56,4 +56,4 @@ The service uses Nancy(http://nancyfx.org) for the web layer, and NModbus4 (http
 
 The code in theory should support Holding registers, Input registers, Coils, and Inputs. It should also support Modbus TCP, Serial RTU and serial ASCII. However, I don't have enough devices to test all these modes. 
 
-The service and the code are provided as is. You are free to use and refactor the code but do so at your own risk.
+The service and the code are provided as is. You are free to use and refactor the code but do so at your own risk. Please include my name as the original author of the code.
